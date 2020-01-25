@@ -1,0 +1,19 @@
+{
+  "name": "centralTraderBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "node-binance-api": "^0.10.0",
+    "okex-api": "^0.5.2",
+    "redis": "^2.8.0",
+    "ws": "^7.2.1"
+  }
+}

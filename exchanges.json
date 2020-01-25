@@ -1,0 +1,17 @@
+{
+    "okex":{
+        "apiKey": "1a98756d-2dec-42ab-a0e9-198acc3ed9f6",
+        "sekretKey": "391DE9A85A8ACD6B8937647A10FEB988",
+        "fee":"0.001"
+    },
+    "huobi":{
+        "apiKey": "",
+        "secretKey": "",
+        "fee": "0.001"
+    },
+    "binance":{
+        "apiKey":"MS8rBBiEEx41IgoXMnnX44KXYCGWRmzlDwV8bD3T8dvFC4FlyqK6mSZzCfZTeXxN",
+        "secretKey": "L1kpYP148I8LbKfIyc3ULogqMT9UFq3OArveOb3q5fqhM4I2ff6ODsxFDT6seXcj",
+        "fee": "0.00075"
+    }
+}

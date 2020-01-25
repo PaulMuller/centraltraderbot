@@ -1,0 +1,13 @@
+{
+    "observablePairs":{
+        "XRPUSDT":{
+            "firstToken": "XRP",
+            "secondToken": "USDT",
+            "exchanges": ["binance", "huobi", "okex"]
+        }
+    },
+
+    "observableExchanges":{
+        "array": ["binance", "huobi", "okex"]
+    }
+}
